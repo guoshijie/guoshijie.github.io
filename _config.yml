@@ -96,7 +96,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: 
+avatar: https://pic1.zhuanstatic.com/zhuanzh/08d53dfb-da56-46c1-ad77-42bec5b8898a.png
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
